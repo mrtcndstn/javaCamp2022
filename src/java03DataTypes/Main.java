@@ -1,10 +1,8 @@
-package javaDersi7;
+package java03DataTypes;
 
 public class Main {
 
 	public static void main(String[] args) {
-		
-
 		int sayi =12;
 		sayi = 11;
 		
@@ -35,6 +33,7 @@ public class Main {
     - char: karakterlerin tutulduğu tip
     - boolean: true/false değerlerini tutar.
 	*/
+
 	}
 
 }

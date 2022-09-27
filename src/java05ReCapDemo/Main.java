@@ -1,9 +1,8 @@
-package javaDersi9;
+package java05ReCapDemo;
 
 public class Main {
 
 	public static void main(String[] args) {
-		
 		int sayi1=60;
 		int sayi2=25;
 		int sayi3=65;
@@ -17,7 +16,6 @@ public class Main {
 		else {
             System.out.println("En büyük sayı : "+sayi3);
 		}
-		
 
 	}
 
